@@ -16,10 +16,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassyXpert11&layout=pie&theme=shadow_red&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 
   # 🌟 Check these out!
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=Pokedexx&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=weatherapp&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=netflix-website&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=DOOM-website&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=Pokedexx&theme=shadow_red)](https://github.com/ClassyXpert11/Pokedexx)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=weatherapp&theme=shadow_red)](https://github.com/ClassyXpert11/weatherapp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=netflix-website&theme=shadow_red)](https://github.com/ClassyXpert11/netflix-website)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=DOOM-website&theme=shadow_red)](https://github.com/ClassyXpert11/DOOM-website)
   
   ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=ClassyXpert11&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
