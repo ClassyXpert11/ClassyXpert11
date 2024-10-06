@@ -3,7 +3,6 @@
 </a>
 
 <div align="center">
-  
   # 🦇 About Me
   🏫 Studying Computer Games Design & Programming at Univeristy of Staffordshire<br>
   🖥️ I’m currently learning C++
@@ -23,7 +22,9 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=ClassyXpert11&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=ClassyXpert11&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)<br>
   
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://raw.githubusercontent.com/{ClassyXpert11}/{ClassyXpert11}/output/github-contribution-grid-snake-dark.svg)
 </div>
