@@ -15,9 +15,9 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=ClassyXpert11&theme=shadow_red&hide_border=false)<br/><br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassyXpert11&layout=pie&theme=shadow_red&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=C-plus-plus-starter-tasks&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=ClassyXpert11&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=php-web-practice&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=Basic-Login-and-register-w-bootstrap&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=ClassyXpert11&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
   
   ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=ClassyXpert11&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
