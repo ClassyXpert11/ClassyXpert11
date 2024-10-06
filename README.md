@@ -1,9 +1,9 @@
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=ClassyXpert11&label=Profile%20Views&color=4&pretty=false" />
-</a>
+</a><br>
 
 <div align="center">
-  # 🦇 About Me
+  <h1>🦇 About Me</h1>
   🏫 Studying Computer Games Design & Programming at Univeristy of Staffordshire<br>
   🖥️ I’m currently learning C++
   
@@ -26,5 +26,5 @@
   
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://raw.githubusercontent.com/{ClassyXpert11}/{ClassyXpert11}/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/{ClassyXpert11}/{ClassyXpert11}/output/github-contribution-grid-snake-dark.svg)
 </div>
