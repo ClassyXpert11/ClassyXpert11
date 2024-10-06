@@ -13,7 +13,8 @@
   # 📊 GitHub Stats
   ![](https://github-readme-stats.vercel.app/api?username=ClassyXpert11&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=ClassyXpert11&theme=shadow_red&hide_border=false)<br/><br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassyXpert11&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassyXpert11&layout=pie&theme=shadow_red&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClassyXpert11&repo=github-readme-stats1&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
   
   ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=ClassyXpert11&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
@@ -26,5 +27,6 @@
   
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  ![Snake animation](https://raw.githubusercontent.com/{ClassyXpert11}/{ClassyXpert11}/output/github-contribution-grid-snake-dark.svg)
+  # 🐍 Contributuion snake 🐍
+  ![Snake animation](https://raw.githubusercontent.com/ClassyXpert11/ClassyXpert11/output/github-contribution-grid-snake-dark.svg)
 </div>
