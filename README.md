@@ -4,8 +4,7 @@
 
 <div align="center">
   <h1>🦇 About Me</h1>
-  🏫 Studying Computer Games Design & Programming at Univeristy of Staffordshire<br>
-  🖥️ I’m currently learning C++
+  🏫 Studying Computer Games Design with Animation at Univeristy of Staffordshire<br>
   
   
   # 💻 Tech Stack
